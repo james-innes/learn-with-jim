@@ -1,2 +1,1 @@
-# learn-with-jim
-Learn to code 🧙
+# Learn With Jim
